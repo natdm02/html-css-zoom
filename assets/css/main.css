@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Rubik Mono One', sans-serif;
+}
+
+.display-flex{
+  display: flex;
+}
+
+img{
+  max-width: 15%;
+  margin-right: 4px;
+  margin-bottom: 12px;
+}
+
+
+
+main{
+  text-align: center;
+  background-color: black;
+  height: calc(100vh - 100px);
+  overflow:auto;
+  padding: 80px 80px 10px 80px;
+}
+
+
+footer{
+  background-color: blue;
+  height: 100px;
+}
