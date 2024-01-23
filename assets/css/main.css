@@ -23,13 +23,17 @@ img{
 main{
   text-align: center;
   background-color: black;
-  height: calc(100vh - 100px);
+  height: calc(100vh - 60px);
   overflow:auto;
   padding: 80px 80px 10px 80px;
 }
 
 
+
 footer{
-  background-color: blue;
-  height: 100px;
+  background-color:  #23272a;
+  height: 60px;
 }
+
+
+
